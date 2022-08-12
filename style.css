@@ -112,3 +112,13 @@ p {
 .cancel-button:hover {
     color: black;
 }
+.attribution {
+    padding-top: 15px;
+    font-size: 15px; 
+    text-align: center; 
+    color:hsl(223, 47%, 23%); 
+    line-height: 2rem;
+}
+.attribution a {
+    color: hsl(228, 45%, 44%); 
+}
